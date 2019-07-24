@@ -1,0 +1,573 @@
+.navbar {
+    background-color: #333333;
+    height: 90px;
+    width: 100%;
+}
+
+.logo-position {
+    margin-left: 35%;
+    margin-top: 63px;
+    height: 50px;
+    width: 227px;
+}
+
+.platform_name {
+    position: absolute;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.form-full {
+	position: absolute;
+    float: right;
+    margin-left: 72%;
+    margin-right: 0.5%;
+    margin-top: 10px;
+}
+
+.form-control{
+    border-radius: 1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: #333333;
+}
+
+.tiny {
+    font-size: 10px;
+}
+
+.small {
+    font-size: 13px;
+}
+
+.medium {
+    font-size: 15px;
+}
+
+.huge {
+    font-size: 60px;
+}
+
+.form-control:focus {
+    background-color: #333333;
+    color: white;
+}
+
+.btn-ok {
+    background-color: #333333;
+}
+
+.btn-buy {
+    margin-top: 22px;
+    width: 30%;
+}
+
+.search {
+    color: white;
+    padding-left: 5px;
+}
+
+.nav-link {
+    color: white!important;
+}
+
+.navbar-nav{
+    margin-left: 94px;
+    margin-top: 45px;
+    margin-bottom: 22px;;
+}
+
+.nav-header {
+    position: absolute;
+    width: 100%;
+    margin-top: -20px;
+}
+
+.header-element-1 {
+    color: white;
+    margin-left: 103px;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+
+.header-element-2 {
+    float: right;
+    margin-top: 50px;
+    margin-right: 130px;
+    color: white;
+}
+
+.header-element-3 {
+    float: right;
+    margin-top: 50px;
+    padding-right: 20px;
+    color: white;
+}
+
+.shopping {
+    position: absolute;
+    float: right;
+    margin-left: 88%;
+    color: #f8595f;
+    margin-top: 15px;
+}
+
+.fa-shopping-cart {
+    font-size: 30px;
+}
+
+.products {
+    color: white;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: -40px;
+}
+
+.price {
+    color: white;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+
+.content1 {
+    max-width: 90%;
+    padding-bottom: 51px;
+}
+
+.content2 {
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    max-width: 90%;
+    padding-bottom: 22px;
+}
+
+.img-fluid {
+    height: 527px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.img1 {
+    width: 49.4%;
+    height: 320px;
+    object-fit: cover;
+}
+
+.img2 {
+    width: 49.4%;
+    margin-left: 0.9%;
+    height: 320px;
+    object-fit: cover;
+}
+
+.content3 {
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    max-width: 90%;
+    padding-bottom: 49px;
+}
+
+.content4 {
+    max-width: 90%;
+}
+
+.img3 {
+    width: 32.7%;
+    height: 198px;
+    object-fit: cover;
+}
+
+.img4 {
+    width: 32.7%;
+    margin-left: 0.9%;
+    height: 198px;
+    object-fit: cover;
+}
+
+.img5 {
+    width: 32.7%;
+    margin-left: 0.9%;
+    height: 198px;
+    object-fit: cover;
+}
+
+.section-title {
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 32px;
+    margin-top: 20px;
+}
+
+.section-news-title {
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 32px;
+    padding-top: 26px;
+}
+
+.section-news {
+    background-color: #e4e4e4;
+    min-width: 100%;
+    padding-bottom: 65px;
+}
+
+.news-image {
+    width: 30%;
+    height: 218px;
+    margin-left: 186px;
+}
+
+.section-news-description {  
+    width: 30%;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-left: 10%;
+}
+
+.form-full-news {
+    margin-left: -31%;  
+}
+
+.form-control-news{
+    position: absolute;
+    border-radius: 1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: #e4e4e4;
+    max-width: 18%;
+}
+
+.form-control-news:focus {
+    background-color: #e4e4e4;
+}
+
+.btn-news {
+    position: absolute;
+    margin-left: 20%;
+    width: 146px;
+    height: 40px;
+    text-transform: uppercase;
+    border-radius: 1%;
+    border-style: none;
+}
+
+.section-news-media {
+    margin-top: 10%;
+    width: 10%;
+    margin-left: 0.8%;
+}
+
+.btn-media {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border-style: none;
+    align-content: center;
+    background-color: white;
+}
+
+.media-icon {
+    color: #333333;
+}
+
+.main-footer {
+    background-color: #333333;
+    height: 224px;
+}
+
+.second-footer {
+    height: 108px;
+    background-color: #e4e4e4;
+}
+
+.second-footer-container {
+    background-color: #e4e4e4;
+}
+
+.second-footer-title {
+    text-transform: uppercase;
+}
+
+.second-footer-container {
+    max-width: 90%;
+}
+
+
+.second-footer-1 {
+    margin-top: 29px;
+}
+
+.second-footer-title {
+    font-weight: bold;
+}
+
+.copyright-footer {
+    background-color: white;
+    height: 49px;
+}
+
+.main-footer-container {
+    max-width: 90%;
+}
+
+.main-footer-first {
+    color: white;
+    margin-top: 34px;
+}
+
+.main-footer-title {
+    text-transform: uppercase;
+}
+
+.main-footer-itens {
+    margin-top: 24px;
+}
+
+.main-footer-item {
+    margin-top: -13px
+}
+
+.third-footer-item {
+    margin-top: -13px
+}
+
+.footer_platform {
+    margin-top: 46px;
+}
+
+.footer-clickable-itens {
+    float: left; 
+    white-space: nowrap;
+    width: 300px;
+    color: white;
+    margin-top: 25%;
+    margin-left: 27%;
+}
+
+.main-footer-third-collumn {
+    color: white;
+    width: 100%;
+}
+
+.main-third-itens {    
+    float: right;
+    margin-top: 34px;
+}
+
+.third-footer-itens {
+    margin-top: 24px;
+}
+
+.copyright-footer {
+    max-width: 90%;
+}
+
+.copyright-text {
+    color: #b8b8b8;
+    margin-top: 10px;
+}
+
+.third-footer {
+    width: 90%;
+}
+
+.itens-to-buy {
+    text-align: center;
+    margin-top: 61px;
+    padding-bottom: 75px;
+}
+
+.buy-component-image {
+    width: 190px;
+    height: 190px;
+}
+
+.product-description {
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.product-description-price {
+    padding-top: 25px;
+}
+
+.product-price {    
+    color: #f8595f;
+}
+
+.product-promotion {
+    font-weight: bold;
+}
+
+.cartoes {
+    position: absolute;
+    margin-left: 10px;
+}
+
+.cartoes2 {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.selos {
+    float: right;
+    margin-top: 27px;
+    margin-right: 127px;
+}
+
+.footer-obj {
+    float: right;
+    margin-top: 8px;
+}
+
+.products-info {
+    position: absolute;
+    margin-left: -27px;
+    margin-top: -24px;
+}
+
+@media screen and (max-width:768px) {
+    .nav-header {
+        display: none
+    }
+
+    .navbar {
+        background-image: url('./images/logo.png');
+        background-repeat: no-repeat;
+        background-size: 50%;
+        background-position: center;
+    }
+
+    .form-full {
+        display: none;
+    }
+
+    .shopping {
+        display: none;
+    }
+
+    .navbar-collapse {
+        background-color: #333333;
+    }
+
+    .content2 {        
+        flex-direction: column;   
+    }
+
+    .content3 {        
+        flex-direction: column;   
+    }
+
+    .img1 {
+        padding-bottom: 10px;
+        width: 100%;
+    }
+
+    .img2 {
+        padding-bottom: 10px;
+        width: 100%;
+    }
+
+    .img3 {
+        padding-bottom: 10px;
+        width: 100%;
+    }
+
+    .img4 {
+        padding-bottom: 10px;
+        width: 100%;
+    }
+
+    .img5 {
+        padding-bottom: 10px;
+        width: 100%;
+    }
+
+    .news-image {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 40%;
+    }
+
+    .section-news-description {
+        width: 80%;
+        margin-right: 50px;
+    }
+
+    .form-full-news {        
+        margin: auto;
+        display: block;        
+    }
+
+    .btn-buy {
+        margin-bottom: 50px;
+    }
+
+    .platform_name {
+        display: none;
+    }
+
+    .second-main-footer-collumn {
+        display: none;
+    }
+
+    .main-footer-third-collumn {
+        display: none;
+    }
+
+    .selos {
+        display: none;
+    }
+
+    .footer-obj {
+        display: none;
+    }
+
+    .form-full-news {
+        position: absolute;
+        margin-left: 35%;
+        margin-top: 70%;
+    }
+
+    .section-news-media {
+        position: absolute;
+        margin-left: 35%;
+        display: flex;
+        margin-top: 95%;
+    }
+
+    .section-news {
+        padding-bottom: 40%;
+    }
+
+    .btn-media {
+        margin-left: 5px; 
+    }
+
+    .btn-news {
+        margin-top: 40px;
+    }
+
+    .btn-news span {
+        display: none;
+      }
+      .btn-news:after {
+        content: ': mail me';
+      }
+
+}
